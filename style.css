@@ -1,0 +1,77 @@
+body {
+    margin: 10%;
+    background-image: url(paw3.png);
+    background-repeat: repeat-;
+    background-position: 100% 100%;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+
+}
+img {
+    max-width: 100%;
+    height:auto
+}
+h2 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 35px;
+    padding-right: 25pt;
+    
+}
+
+.cat-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border: 5px double black;
+    padding-left: 25pt;
+    padding-top: 25pt;
+    padding-right: 25pt;
+    padding-bottom: 25pt;
+}
+
+.cat-name {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.cat-info  {
+    background-color: white;
+    padding-left: 25pt;
+    padding-top: 25pt;
+    padding-right: 25pt;
+    padding-bottom: 25pt;
+  
+}
+
+
+h1{
+    text-align: center;
+}
+.nav-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .nav-list__item {
+    float: left;
+  }
+  
+  .nav-list__item a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+
+  
+footer {
+    text-align: center;
+    padding-top: 15px;
+}
